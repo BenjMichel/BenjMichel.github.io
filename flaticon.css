@@ -1,0 +1,99 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/02/2017 10:30
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-backpack:before { content: "\f100"; }
+.flaticon-ballet-flats:before { content: "\f101"; }
+.flaticon-basketball-jersey:before { content: "\f102"; }
+.flaticon-bathrobe:before { content: "\f103"; }
+.flaticon-belt:before { content: "\f104"; }
+.flaticon-blouse:before { content: "\f105"; }
+.flaticon-boot:before { content: "\f106"; }
+.flaticon-boot-1:before { content: "\f107"; }
+.flaticon-boot-2:before { content: "\f108"; }
+.flaticon-bow-tie:before { content: "\f109"; }
+.flaticon-brassiere:before { content: "\f10a"; }
+.flaticon-cap:before { content: "\f10b"; }
+.flaticon-coat:before { content: "\f10c"; }
+.flaticon-dress:before { content: "\f10d"; }
+.flaticon-dress-1:before { content: "\f10e"; }
+.flaticon-dress-2:before { content: "\f10f"; }
+.flaticon-dress-3:before { content: "\f110"; }
+.flaticon-dress-4:before { content: "\f111"; }
+.flaticon-glasses:before { content: "\f112"; }
+.flaticon-gloves:before { content: "\f113"; }
+.flaticon-hand-bag:before { content: "\f114"; }
+.flaticon-hand-bag-1:before { content: "\f115"; }
+.flaticon-hat:before { content: "\f116"; }
+.flaticon-high-heels:before { content: "\f117"; }
+.flaticon-high-hells:before { content: "\f118"; }
+.flaticon-hoodie:before { content: "\f119"; }
+.flaticon-jacket:before { content: "\f11a"; }
+.flaticon-jacket-1:before { content: "\f11b"; }
+.flaticon-jacket-2:before { content: "\f11c"; }
+.flaticon-jacket-3:before { content: "\f11d"; }
+.flaticon-jacket-4:before { content: "\f11e"; }
+.flaticon-jacket-5:before { content: "\f11f"; }
+.flaticon-jacket-6:before { content: "\f120"; }
+.flaticon-jeans:before { content: "\f121"; }
+.flaticon-mittens:before { content: "\f122"; }
+.flaticon-necklace:before { content: "\f123"; }
+.flaticon-overall:before { content: "\f124"; }
+.flaticon-pamela:before { content: "\f125"; }
+.flaticon-panties:before { content: "\f126"; }
+.flaticon-pants:before { content: "\f127"; }
+.flaticon-pijama:before { content: "\f128"; }
+.flaticon-polo:before { content: "\f129"; }
+.flaticon-portfolio:before { content: "\f12a"; }
+.flaticon-pullover:before { content: "\f12b"; }
+.flaticon-purse:before { content: "\f12c"; }
+.flaticon-scarf:before { content: "\f12d"; }
+.flaticon-shirt:before { content: "\f12e"; }
+.flaticon-shirt-1:before { content: "\f12f"; }
+.flaticon-shirt-2:before { content: "\f130"; }
+.flaticon-shirt-3:before { content: "\f131"; }
+.flaticon-shoe:before { content: "\f132"; }
+.flaticon-shoe-1:before { content: "\f133"; }
+.flaticon-shopping-bag:before { content: "\f134"; }
+.flaticon-shorts:before { content: "\f135"; }
+.flaticon-shorts-1:before { content: "\f136"; }
+.flaticon-skirt:before { content: "\f137"; }
+.flaticon-skirt-1:before { content: "\f138"; }
+.flaticon-slipper:before { content: "\f139"; }
+.flaticon-sneaker:before { content: "\f13a"; }
+.flaticon-socks:before { content: "\f13b"; }
+.flaticon-suitcase:before { content: "\f13c"; }
+.flaticon-tie:before { content: "\f13d"; }
+.flaticon-trench-coat:before { content: "\f13e"; }
+.flaticon-umbrella:before { content: "\f13f"; }
+.flaticon-underwear:before { content: "\f140"; }
+.flaticon-underwear-1:before { content: "\f141"; }
+.flaticon-vest:before { content: "\f142"; }
+.flaticon-wallet:before { content: "\f143"; }
+.flaticon-winter-hat:before { content: "\f144"; }
+.flaticon-wristwatch:before { content: "\f145"; }
