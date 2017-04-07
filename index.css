@@ -17,5 +17,6 @@ body{
   font-family: 'Roboto Mono', sans-serif;
   color: #41465D;
   font-size: 15vw;
+  font-weight: 300;
   animation: anim 1s ease infinite alternate;
 }
