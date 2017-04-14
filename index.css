@@ -6,11 +6,15 @@ body{
 @keyframes anim { 50% { opacity: 0; } }
 
 .splash{
-  height: 75vh;
+  background-color: #f1f2f1;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
   transition: all 0.3s 1s ease-out;
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 1;
 }
 
 .splash-text {
@@ -19,4 +23,5 @@ body{
   font-size: 15vw;
   font-weight: 300;
   animation: anim 1s ease infinite alternate;
+  padding-bottom: 15vh;
 }
