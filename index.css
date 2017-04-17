@@ -12,6 +12,7 @@ body{
   width: 100vw;
   transition: all 0.3s 1s ease-out;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   z-index: 1;
@@ -24,4 +25,14 @@ body{
   font-weight: 300;
   animation: anim 1s ease infinite alternate;
   padding-bottom: 15vh;
+  margin: 0px;
+}
+
+.splash-subtext {
+  font-family: 'Roboto Mono', sans-serif;
+  color: #41465D;
+  font-size: 7vw;
+  font-weight: 300;
+  margin: 0px;
+  /*padding-bottom: 15vh;*/
 }
