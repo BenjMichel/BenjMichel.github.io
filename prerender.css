@@ -1,5 +1,5 @@
 <style type="text/css">.lbEIYt {
-  width: 100%;
+  width: 100vw;
   background-color: white;
  }.exuVvq {
   display: -webkit-box;
@@ -151,6 +151,8 @@
 }.noPXY {
   position: fixed;
   top: 0;
+  right: 0;
+  left: 0;
   width: 100vw;
   height: 60px;
   z-index: 1;
