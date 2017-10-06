@@ -1,5 +1,10 @@
 {
- "name": "App",
+ "short_name": "tilli",
+ "name": "tilli - service de retouche à domcile",
+ "theme_color": "#41465D",
+ "background_color": "#41465D",
+ "display": "standalone",
+ "start_url": ".",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
